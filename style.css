@@ -8,3 +8,9 @@ nav h1 {margin-left: 20px;}
 iframe {border: blueviolet 5px double;}
 .advice {margin: 0 auto; text-align: center; color:blueviolet; } 
 .advice p {width: 700px; text-align: center; margin: 0 auto;}
+
+.ISP {color: white; text-align: center;}
+.ISP p {width: 600px; text-align: center; margin: 0 auto;}
+
+nav {width: 100%;}
+nav img {float: right; margin-right: 15px; margin-top: -65px;}
