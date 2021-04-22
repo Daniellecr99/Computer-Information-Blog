@@ -14,3 +14,16 @@ iframe {border: blueviolet 5px double;}
 
 nav {width: 100%;}
 nav img {float: right; margin-right: 15px; margin-top: -65px;}
+
+.circle {border: black solid 3px; border-radius: 50%; width: 400px; height: 400px; margin: 0 auto; text-align: center; background-color: cornflowerblue;}
+.circle h3, .circle ul {margin-top: 50px; font-weight: bold;}
+.circle li {margin: 8px; list-style:none; font-weight: 900; margin-left: -10px;}
+.circle:hover {background-color: rgba(204, 45, 106, 0.788); transform: rotate(360deg); transition-duration:2s;}
+.good {color: rgb(5, 77, 5);}
+.bad {color: darkred;}
+.circle {display: inline-block; text-align: center; margin: 0 auto;}
+.circles {text-align: center; margin: 0 auto;}
+.threats {color: white; text-align: center; margin: 0 auto;}
+.threat p {width: 300px;}
+.threat {display: inline-block; margin: 10px; }
+.virus p {margin-top: 30px;}
